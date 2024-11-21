@@ -1,0 +1,10 @@
+C:\Users\meet1\source\repos\exam3\bin\Debug\exam3.exe.config
+C:\Users\meet1\source\repos\exam3\bin\Debug\exam3.exe
+C:\Users\meet1\source\repos\exam3\bin\Debug\exam3.pdb
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.csproj.AssemblyReference.cache
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.Properties.Resources.resources
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.csproj.GenerateResource.cache
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.csproj.CoreCompileInputs.cache
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.exe
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.pdb
+C:\Users\meet1\source\repos\exam3\obj\Debug\exam3.Form1.resources

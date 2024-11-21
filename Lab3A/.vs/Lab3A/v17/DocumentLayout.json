@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meet1\\source\\repos\\Lab3A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|C:\\Users\\meet1\\source\\repos\\Lab3A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|c:\\users\\meet1\\source\\repos\\lab3a\\songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|solutionrelative:songs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|C:\\Users\\meet1\\source\\repos\\Lab3A\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|solutionrelative:movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|C:\\Users\\meet1\\source\\repos\\Lab3A\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C932E1D-1E28-4CE9-A3E1-409E5470F8F9}|Lab3A.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Songs.cs",
+              "DocumentMoniker": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Songs.cs",
+              "RelativeDocumentMoniker": "Songs.cs",
+              "ToolTip": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Songs.cs",
+              "RelativeToolTip": "Songs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:19:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Movies.cs",
+              "RelativeDocumentMoniker": "Movies.cs",
+              "ToolTip": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Movies.cs",
+              "RelativeToolTip": "Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:18:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:18:15.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\meet1\\source\\repos\\Lab3A\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwBEAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:13:46.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

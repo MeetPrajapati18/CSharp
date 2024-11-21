@@ -1,0 +1,20 @@
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\bin\Debug\ListBox Control.exe.config
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\bin\Debug\ListBox Control.exe
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\bin\Debug\ListBox Control.pdb
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\ListBox Control.csprojAssemblyReference.cache
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\LabExercise05.Form1.resources
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\ListBox_Control.Properties.Resources.resources
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\ListBox Control.csproj.GenerateResource.cache
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\ListBox Control.csproj.CoreCompileInputs.cache
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\ListBox Control.exe
+C:\Users\000403590\source\repos\ListBox Control\ListBox Control\obj\Debug\ListBox Control.pdb
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\bin\Debug\ListBox Control.exe.config
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\bin\Debug\ListBox Control.exe
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\bin\Debug\ListBox Control.pdb
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\ListBox Control.csprojAssemblyReference.cache
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\LabExercise05.Form1.resources
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\ListBox_Control.Properties.Resources.resources
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\ListBox Control.csproj.GenerateResource.cache
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\ListBox Control.csproj.CoreCompileInputs.cache
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\ListBox Control.exe
+H:\COMP-10204\LabExercises\LabExercise05\ListBox Control\obj\Debug\ListBox Control.pdb

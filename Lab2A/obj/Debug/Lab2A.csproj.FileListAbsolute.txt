@@ -1,0 +1,7 @@
+C:\Users\meet1\source\repos\Lab2A\bin\Debug\Lab2A.exe.config
+C:\Users\meet1\source\repos\Lab2A\bin\Debug\Lab2A.exe
+C:\Users\meet1\source\repos\Lab2A\bin\Debug\Lab2A.pdb
+C:\Users\meet1\source\repos\Lab2A\obj\Debug\Lab2A.csproj.AssemblyReference.cache
+C:\Users\meet1\source\repos\Lab2A\obj\Debug\Lab2A.csproj.CoreCompileInputs.cache
+C:\Users\meet1\source\repos\Lab2A\obj\Debug\Lab2A.exe
+C:\Users\meet1\source\repos\Lab2A\obj\Debug\Lab2A.pdb
